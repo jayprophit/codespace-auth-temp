@@ -1,0 +1,20 @@
+{
+  "name": "codespace-auth-temp",
+  "version": "1.0.0",
+  "description": "An Auth system, designed in GitHub codespace",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+httmps://github.com/Aniket762/codespace-auth-temp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs":{
+    "url": "https://github.com/Aniket762/codespace-auth-temp/issues"
+  },
+  "homepage": "https://github.com/Aniket762/codespace-auth-temp#readme"
+}
